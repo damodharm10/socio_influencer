@@ -2,7 +2,6 @@
 
 import bg from "../../assets/login/a79b2511594eca55c4e869b70136ca5f.gif";
 import Form from "./form";
-// import googleLogin from "../../assets/login/google.png";
 import BottomBar from "./bottom-bar";
 import { GoogleOAuthProvider,GoogleLogin } from "@react-oauth/google";
 import Image from "next/image";
